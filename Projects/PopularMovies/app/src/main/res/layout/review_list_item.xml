@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RelativeLayout>
+    <ImageView
+        android:id="@+id/review_iv"
+        android:layout_width="52dp"
+        android:layout_height="53dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:contentDescription="@string/detail_movie_review"
+        app:srcCompat="@drawable/ic_sharp_rate_review_24px" />
+
+    <TextView
+        android:id="@+id/review_tv"
+        android:layout_width="359dp"
+        android:layout_height="53dp"
+        android:layout_alignParentTop="true"
+        android:contentDescription="@string/detail_movie_review"
+        android:layout_toEndOf="@+id/review_iv"
+        android:gravity="center_vertical"
+        android:paddingLeft="16dp"
+        android:text="@string/detail_movie_review" />
+    </RelativeLayout>
+</layout>
