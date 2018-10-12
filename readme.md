@@ -1,6 +1,6 @@
-# Phase 1: Grow With Google Developer Challenge Scholarship 2018 - Android Dev
-# Phase 2: Grow With Google Udacity's Android Developer Nanodegree which I was accepted
-## My coursework is organized as follows:
+## Phase 1: Grow With Google Developer Challenge Scholarship 2018 - Android Dev
+## Phase 2: Grow With Google Udacity's Android Developer Nanodegree which I was accepted
+### My coursework is organized as follows:
 
 Name | Description
 --- | ---
