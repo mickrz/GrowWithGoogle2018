@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bake!</string>
+    <string name="recipe_position">Recipe Position</string>
+    <string name="steps_position">Steps Position</string>
+    <string name="recipe_blob">Recipe</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="recipe_servings">Recipe Servings</string>
+    <string name="recipe_ingredients">Recipe Ingredients</string>
+    <string name="recipe_step">Recipe Step</string>
+    <string name="baking_json_url">"http://go.udacity.com/"</string>
+    <string name="no_pictures_available">No Picture(s) available</string>
+    <string name="an_error_occurred">An error occurred loading picture from url!</string>
+    <string name="button_previous">Prev</string>
+    <string name="button_next">Next</string>
+    <string name="appwidget_text">No recipe selected!</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_recipe_found">No recipe found!</string>
+    <string name="recipe_step_long_description">Recipe Step Long Description</string>
+    <string name="servings">Servings:</string>
+    <string name="widget_recipe_name">WIDGET_RECIPE_NAME</string>
+    <string name="widget_recipe_ingredients">WIDGET_INGREDIENTS</string>
+    <string name="two_pane">Two Pane</string>
+</resources>

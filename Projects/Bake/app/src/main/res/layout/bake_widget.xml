@@ -1,0 +1,30 @@
+<!--
+  ~ Author: M. Rzucidlo
+  ~ Created as part of the Google - Udacity scholarship (Android Developer Nanodegree program).
+  ~ Project 4: Baking App.
+  ~ Copyright (c) 2018. All rights reserved.
+  ~ Last modified: 8/14/18 6:22 PM
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#09C"
+    android:padding="@dimen/widget_margin"
+    android:id="@+id/widget_layout">
+
+    <TextView
+        android:id="@+id/appwidget_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="8dp"
+        android:background="#09C"
+        android:contentDescription="@string/appwidget_text"
+        android:text="@string/appwidget_text"
+        android:textColor="#ffffff"
+        android:textSize="24sp"
+        android:textStyle="bold|italic" />
+
+</RelativeLayout>
